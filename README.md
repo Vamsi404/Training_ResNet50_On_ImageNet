@@ -51,7 +51,7 @@ Ensure you have the following installed:
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/Vamsi404/Training_ResNet50_On_ImageNet.git
-cd repo-name
+cd Training_ResNet50_On_ImageNet.git
 pip install -r requirements.txt
 ```
 
